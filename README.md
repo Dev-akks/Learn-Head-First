@@ -1,52 +1,52 @@
-# Head First All Series PDF
- This is the all of the pdf of Head First series
+# PDF
+ This is the all for learning
  
-Head First 2D Geometry
+2D Geometry
 
-Head First Agile
+Agile
 
-Head First Ajax
+Ajax
 
-Head First Algebra
+Algebra
 
-Head First Android Development
+Android Development
 
-Head First C#
-Head First Data Analysis
+C#
+Data Analysis
 
-Head First Design Patterns
+Design Patterns
 
-Head First EJB.pdf
+EJB.pdf
 
-Head First Go.pdf
+Go.pdf
 
-Head First HTML and CSS - 2nd Ed
+HTML and CSS - 2nd Ed
 
-Head First HTML5 Programming Building Web Apps with JavaScript
+HTML5 Programming Building Web Apps with JavaScript
 
-Head First Java.pdf
+Java.pdf
 
-Head First JavaScript
+JavaScript
 
-Head First Networking
+Networking
 
-Head First Object Oriented Analysis and Design
+Object Oriented Analysis and Design
 
-Head First PHP and MySQL
+PHP and MySQL
 
-Head First PMP
+PMP
 
-Head First Physics
+Physics
 
-Head First Python
+Python
 
-Head First Rails
+Rails
 
-Head First Web Design
+Web Design
 
-Head First iPhone and iPad Development
+iPhone and iPad Development
 
-Head First jQuery
+jQuery
 
-Head first Statistics
+Statistics
 
